@@ -10,7 +10,7 @@ payload = json.dumps({
 })
 
 headers = {
-  'x-api-key': 'b57b93e8-5184-4621-b570-76cb5765a654',
+  'x-api-key': 'b57b93e8-****-****-****-************',
   'Content-Type': 'application/json'
 }
 
